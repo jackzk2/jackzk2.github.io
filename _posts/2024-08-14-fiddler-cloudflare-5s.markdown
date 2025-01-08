@@ -2,7 +2,7 @@
 layout:     post
 title:      "fiddler跳过五秒盾的小窍门"
 date:       2024-08-14 15:27:00
-author:     "Hux"
+author:     "zhangk"
 catalog: true
 tags:
     - Scrape
@@ -50,4 +50,4 @@ tags:
 
 ![image-20240729174746000](/img/in-post/image-20240729174746000.png)
 
-![image-20240729174807293](/img/in-post/image-20240729174807293.png)
+![image-20240729174807293](/img/in-post/image-20240729174807293.png)	
